@@ -12,9 +12,6 @@ profile:
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
-  more_info: >
-    <p>Email:</p>
-    <p>nd396[at]cornell[dot]edu</p>
 
 
 
