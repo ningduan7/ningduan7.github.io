@@ -13,8 +13,9 @@ profile:
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
   more_info: >
-    <p>Contact:</p>
+    <p>Email:</p>
     <p>nd396[at]cornell[dot]edu</p>
+
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
